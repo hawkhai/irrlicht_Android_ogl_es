@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CustomSceneNode/CustomSceneNode.iml" filepath="$PROJECT_DIR$/CustomSceneNode/CustomSceneNode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HelloWorldOglEs/HelloWorldOglEs.iml" filepath="$PROJECT_DIR$/HelloWorldOglEs/HelloWorldOglEs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/UserInterface/UserInterface.iml" filepath="$PROJECT_DIR$/UserInterface/UserInterface.iml" />
-      <module fileurl="file://$PROJECT_DIR$/irrlicht_Android_ogl_es.iml" filepath="$PROJECT_DIR$/irrlicht_Android_ogl_es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomSceneNode/CustomSceneNode.iml" filepath="$PROJECT_DIR$/CustomSceneNode/CustomSceneNode.iml" group="irrlicht_Android_ogl_es/CustomSceneNode" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorldOglEs/HelloWorldOglEs.iml" filepath="$PROJECT_DIR$/HelloWorldOglEs/HelloWorldOglEs.iml" group="irrlicht_Android_ogl_es/HelloWorldOglEs" />
+      <module fileurl="file://$PROJECT_DIR$/UserInterface/UserInterface.iml" filepath="$PROJECT_DIR$/UserInterface/UserInterface.iml" group="irrlicht_Android_ogl_es/UserInterface" />
+      <module fileurl="file://$PROJECT_DIR$/irrlicht_Android_ogl_es.iml" filepath="$PROJECT_DIR$/irrlicht_Android_ogl_es.iml" group="irrlicht_Android_ogl_es" />
     </modules>
   </component>
 </project>
